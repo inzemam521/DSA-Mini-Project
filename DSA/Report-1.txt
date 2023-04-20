@@ -1,0 +1,35 @@
+**************Report-1***************
+Maths
+	 1) Ironman2
+	 2) Paras
+	 3) Sumit
+	 4) Sam
+
+Physics
+	 1) Ironman
+	 2) Ironman3
+	 3) Samarth
+	 4) Virus
+
+English
+	 1) Sonam
+
+Computer Science
+	 1) Inzemamul
+
+Biology
+	 1) Aditya
+	 2) Sonali
+
+Physical Education
+	 1) Sumit
+	 2) Samy
+
+Chemistry
+	 1) Shashwat
+
+Electronics
+	 1) Rajan
+
+IOT
+	 1) Maya
